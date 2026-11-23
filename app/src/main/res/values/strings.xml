@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Licznik z paskiem</string>
+
+    <string name="action_plus">Licznik z paskiem</string>
+    <string name="action_minus">Licznik z paskiem</string>
+    <string name="action_zero">Licznik z paskiem</string>
+
+    <string name="title">Licznik: %d</string>
+    <string name="title_default">Licznik</string>
+
+    <string name="confirm_title">Na pewno?</string>
+    <string name="confirm_message">Wyzerować?</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+    <string name="error">Nie można poniżej 0</string>
+
+
 </resources>
